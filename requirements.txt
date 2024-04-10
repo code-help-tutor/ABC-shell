@@ -1,0 +1,8 @@
+WeChat: cstutorcs
+QQ: 749389476
+Email: tutorcs@163.com
+nose2
+coverage
+flake8==3.8.0
+flake8-html
+junit2html
